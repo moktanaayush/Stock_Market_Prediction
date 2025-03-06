@@ -17,7 +17,7 @@ The project uses **historical stock data** from **Nabil Bank** along with severa
 ## Requirements
 To run this project locally, make sure you have the following dependencies installed:
 
-- Python 3.x
+- Python 3.9
 - pandas
 - numpy
 - matplotlib
