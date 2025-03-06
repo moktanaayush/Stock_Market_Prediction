@@ -1,0 +1,29 @@
+# Ignore virtual environment folder
+new_venv_nabil/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore TensorFlow and other large files
+*.dylib
+*.so
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+new_venv_nabil/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files (you can customize this as needed)
+*.csv
+*.log
+*.zip
+
+# Ignore model files if too large
+model_files/
